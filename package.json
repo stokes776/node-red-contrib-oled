@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-oled",
+  "name": "stokes776/node-red-contrib-oled-i2cbus-2",
   "version": "1.0.6",
   "description": "Node-Red node for controlling OLED displays",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "engines": {
     "node": ">=12"
   },
-  "author": "Hendrik Roth <hi@hendrikroth.com>",
+  "author": "Kyle Stokes <stokes776@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HendrikRoth/node-red-contrib-oled/issues"
+    "url": "https://github.com/stokes776/node-red-contrib-oled-i2cbus-2/issues"
   },
-  "homepage": "https://github.com/HendrikRoth/node-red-contrib-oled#readme",
+  "homepage": "https://github.com/stokes776/node-red-contrib-oled-i2cbus-2#readme",
   "dependencies": {
     "i2c-bus": "^5.2.2",
     "oled-font-5x7": "^1.0.3",
@@ -37,8 +37,8 @@
   },
   "maintainers": [
     {
-    "name": "Antonio Maza",
-    "email": "waterbrain@pelaire.com"
+    "name": "Kyle Stokes",
+    "email": "stokes776@gmail.com"
   }
   ],
   "directories": {
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HendrikRoth/node-red-contrib-oled.git"
+    "url": "git+https://github.com/stokes776/node-red-contrib-oled-i2cbus-2.git"
   }
 }
