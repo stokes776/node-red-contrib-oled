@@ -2,6 +2,7 @@
 var fs = require('fs');
 var PNG = require('pngjs').PNG;
 var i2c = require('i2c-bus');
+//stokes776 fork
 var i2cBus = i2c.openSync(2);
 var Oled = require('oled-i2c-bus');
 var font = require('oled-font-5x7');
