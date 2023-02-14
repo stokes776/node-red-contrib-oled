@@ -13,7 +13,7 @@ npm install node-red-contrib-oled
 ```
 
 ## to publish NPM package
-npm 
+npm publish
 
 # Features
 
