@@ -12,6 +12,9 @@ Node-Red node to talk to OLED displays, connected by i2c.
 npm install node-red-contrib-oled
 ```
 
+## to publish NPM package
+npm 
+
 # Features
 
 * Perfectly compatible with Raspberry Pi 4B/3B+/3B.
